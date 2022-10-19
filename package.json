@@ -1,5 +1,6 @@
 {
   "name": "ravenous",
+  "homepage": "https://ejuneau.github.io/CA_Ravenous/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
